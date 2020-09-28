@@ -61,7 +61,7 @@ A set of poll data called election_data.csv was used.
 
 In addition to the main.py final script, a "PyPoll/analysis/PyPoll_Results.txt" was exported with the results.
 
-![](images/PyPoll.png)
+![](images/PollingStation.png)
 
 **The PayPoll main.py script calculates the following:**
 
