@@ -13,16 +13,18 @@ The "analysis" folder contains the text file with the results from the analysis.
 
 **PyBank:**
 
-"PyBank/Resources/main.py", 
-"PyBank/Resources/budget_data", 
-"PyBank/analysis/PyBank_Results.txt", 
+* "PyBank/Resources/main.py"
+
+* "PyBank/Resources/budget_data"
+
+* "PyBank/analysis/PyBank_Results.txt"
 
 
 **PyPoll:**
 
-"PyPoll/Resources/main.py", 
-"PyPoll/Resources/election_data", 
-"PyPoll/analysis/PyPoll_Results.txt", 
+* "PyPoll/Resources/main.py"
+* "PyPoll/Resources/election_data"
+* "PyPoll/analysis/PyPoll_Results.txt"
 
 # PyBank 
 
@@ -37,21 +39,20 @@ In addition to the main.py final script, a "PyBank/analysis/PyBank_Results.txt" 
 **The PayBank main.py script calculates the following:**
 
 
-  ..* The total number of months included in the dataset
+  * The total number of months included in the dataset
 
-  ..* The net total amount of "Profit/Losses" over the entire period
+  * The net total amount of "Profit/Losses" over the entire period
 
-  ..* The average of the changes in "Profit/Losses" over the entire period
+  * The average of the changes in "Profit/Losses" over the entire period
 
-  ..* The greatest increase in profits (date and amount) over the entire period
+  * The greatest increase in profits (date and amount) over the entire period
 
-  ..* The greatest decrease in losses (date and amount) over the entire period
+  * The greatest decrease in losses (date and amount) over the entire period
  
  **The PyBank analysis results are as follows:**
  
 ![](images/FinancialResults.png)
   
- 
 # PyPoll 
 
 In this second challenge, a Python script "PyPoll/Resources/main.py" was created to help a small, rural town modernize its vote process. 
@@ -62,18 +63,17 @@ In addition to the main.py final script, a "PyPoll/analysis/PyPoll_Results.txt" 
 
 ![](images/PyPoll.png)
 
-
 **The PayPoll main.py script calculates the following:**
 
-  ..* The total number of votes cast
+  * The total number of votes cast
 
-  ..* A complete list of candidates who received votes
+  * A complete list of candidates who received votes
 
-  ..* The percentage of votes each candidate won
+  * The percentage of votes each candidate won
 
-  ..* The total number of votes each candidate won
+  * The total number of votes each candidate won
 
-  ..* The winner of the election based on popular vote.
+  * The winner of the election based on popular vote.
  
  **The PyPoll analysis results are as follows:**
   
